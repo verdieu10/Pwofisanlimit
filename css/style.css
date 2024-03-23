@@ -232,7 +232,7 @@ color: var(--dark);
 }
 .page-header4 {
     margin-bottom: 6rem;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/banner4.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/Bshop.jpg) center center no-repeat;
     background-size: cover;
 }
 .page-header5 {
